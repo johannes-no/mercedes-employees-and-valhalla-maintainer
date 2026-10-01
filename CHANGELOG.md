@@ -1,6 +1,11 @@
 ## UNRELEASED
 * **Removed**
 * **Bug Fix**
+* **Enhancement**
+
+## Release Date: 2026-10-01 Valhalla 3.6.0
+* **Removed**
+* **Bug Fix**
    * FIXED: don't advance bounding-circle iterator past the end [#6241](https://github.com/valhalla/valhalla/pull/6241)
 * **Enhancement**
    * CHANGED: move `GraphTile::GetTileId` to `GraphId::FromTilePath` as a static factory ctor [#6237](https://github.com/valhalla/valhalla/pull/6237)
